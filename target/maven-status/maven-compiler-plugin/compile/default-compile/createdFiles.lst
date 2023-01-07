@@ -1,0 +1,9 @@
+model\Rewards.class
+RewardsCalculatorController.class
+RewardPointsCalculatorApplication.class
+service\RewardsService.class
+entity\Transaction.class
+service\RewardsServiceImpl.class
+entity\Customer.class
+repository\CustomerRepository.class
+repository\TransactionRepository.class
